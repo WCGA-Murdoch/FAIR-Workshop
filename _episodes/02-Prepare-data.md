@@ -15,7 +15,7 @@ The main purpose of F is to prevent data loss, acknowledgment for the creators, 
 * Advertise your data (conferences, presentations, etc.)
 * Describe your data with rich metadata and standard vocabularies
 
-<img src="images/fair/example_1.JPG" alt="hi" width="500" class="inline"/>
+<img src="images/fair/example_1.jpg" alt="hi" width="500" class="inline"/>
 
 ## <span style="color:#063970"> **A - Accessible** </span>
 The main purpose of A is to prevent data loss, regulate access via appropriate permission allocations, increase the visibility of research and enable reusability.  
@@ -32,12 +32,12 @@ The main purpose of A is to prevent data loss, regulate access via appropriate p
 
 **Restricted**(*default*): Data are only accessible by third parties with approval from the Data Custodian and the relevant GRDC Investment Manager.  
 
-<img src="images/fair/example_2.JPG" alt="hi" width="500" class="inline"/>  
+<img src="images/fair/example_2.jpg" alt="hi" width="500" class="inline"/>  
 
 **Embargoed**: Data are closed until the end of a specified embargo period to allow for publication of research or commercialisation activities.  
 *--After embargo, the access right change to ‘Restricted’ unless otherwise indicated--*  
 
-<img src="images/fair/example_3.JPG" alt="hi" width="500" class="inline"/>  
+<img src="images/fair/example_3.jpg" alt="hi" width="500" class="inline"/>  
 
 **Closed**: Data are not available for use by third parties.  
 
