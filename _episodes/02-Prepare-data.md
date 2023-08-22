@@ -48,8 +48,18 @@ How to:
 * Use standard data format
 * Add references to other data into your metadata (i.e. link to other dataset)
 
+:bookmark_tabs: *Try to use open format (i.e. txt, csv,...) instead of proprietary format whenever possible*  
+:bookmark_tabs: *Use standard vocabularies and definitions*  
+
 ## <span style="color:#063970"> **R - Reusable** </span>
 The main purpose of R is to create a foundation for collaborations and further research, by acknowledging the creators of the metadata/data. It also help increasing the visibility of research.  
 How to:  
 * Deposit your data to a data repository with rich metadata
 * Include a license in your metadata
+
+:bookmark_tabs: *Try to include as much information as possible in your metadata record and data files*  
+:bookmark_tabs: *Specify a suitable license for your data when deposit it to the repository*  
+
+<img src="images/fair/CCBY_1.jpg" alt="hi" width="500" class="inline"/>  
+<img src="images/fair/CCBY_2.jpg" alt="hi" width="500" class="inline"/>  
+<img src="images/fair/CCBY_3.jpg" alt="hi" width="500" class="inline"/>  
