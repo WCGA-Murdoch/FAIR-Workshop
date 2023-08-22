@@ -10,15 +10,36 @@ This part will guide you through the data preparation steps
 
 ## <span style="color:#063970"> **F - Findable** </span>
 The main purpose of F is to prevent data loss, acknowledgment for the creators, increase the visibility of research and enable reusability.  
-How to:  
+**How to:**
 * Deposit your data to a data repository
-* Publish your data
 * Advertise your data (conferences, presentations, etc.)
+* Describe your data with rich metadata and standard vocabularies
+
+<img src="images/fair/example_1.JPG" alt="hi" width="500" class="inline"/>
 
 ## <span style="color:#063970"> **A - Accessible** </span>
 The main purpose of A is to prevent data loss, regulate access via appropriate permission allocations, increase the visibility of research and enable reusability.  
-How to:  
-* Describe accessibility conditions of data when it is deposited and when advertise your data.
+**How to:**
+* Describe conditions for data access.
+
+<span style="color:red"> :bookmark_tabs: **FAIR is not equal to OPEN** </span>  
+:bookmark_tabs: **Accessible means 'Accessible under well defined conditions'**
+
+**These conditions can be used in the Research Portal**    
+*--Note: Metadata should always be findable and accessable--*   
+
+**Open**: Data are accessible with any Creative Commons Licence.  
+
+**Restricted**(*default*): Data are only accessible by third parties with approval from the Data Custodian and the relevant GRDC Investment Manager.  
+
+<img src="images/fair/example_2.JPG" alt="hi" width="500" class="inline"/>  
+
+**Embargoed**: Data are closed until the end of a specified embargo period to allow for publication of research or commercialisation activities.  
+*--After embargo, the access right change to ‘Restricted’ unless otherwise indicated--*  
+
+<img src="images/fair/example_3.JPG" alt="hi" width="500" class="inline"/>  
+
+**Closed**: Data are not available for use by third parties.  
 
 ## <span style="color:#063970"> **I - Interoperable** </span>
 The main purpose of I is to enable the exchange of metadata and data. It also help increasing the visibility of research and enable reusability.  
@@ -32,6 +53,3 @@ The main purpose of R is to create a foundation for collaborations and further r
 How to:  
 * Deposit your data to a data repository with rich metadata
 * Include a license in your metadata
-
-
-More to be added.
