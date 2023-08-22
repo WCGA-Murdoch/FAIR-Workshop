@@ -63,3 +63,7 @@ How to:
 <img src="images/fair/CCBY_1.jpg" alt="hi" width="500" class="inline"/>  
 <img src="images/fair/CCBY_2.jpg" alt="hi" width="500" class="inline"/>  
 <img src="images/fair/CCBY_3.jpg" alt="hi" width="500" class="inline"/>  
+
+# <span style="color:#023047"> Useful resources </span>
+
+The <a href="files/Copy of GRDC Metadata_Collection_Form_V3.2_notes_fixed.xlsx"> GRDC metadata colletion form </a>

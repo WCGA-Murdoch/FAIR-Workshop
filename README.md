@@ -43,7 +43,7 @@ Viet Dang and Penghao Wang
 This workshop is built based on ARDC's [Your first step to FAIR](https://au-research.github.io/your-first-step-to-fair/)  
 DOI: 10.5281/zenodo.5009206
 
-Tremendous support from the The Murdoch University Library Team
+The authors thanks The Murdoch University Library Team for their trmendous support.
 
 ## <span style="color:#023047"> **Licence** </span>
 
