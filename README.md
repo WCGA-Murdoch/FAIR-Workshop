@@ -32,13 +32,18 @@ This pratical workshop is designed for Murdoch University researchers, graduate 
 
 ## <span style="color:#023047"> **Contributing** </span>
 
+Contributions are always welcome!
+
 ## <span style="color:#023047"> **Authors** </span>
+
 Viet Dang and Penghao Wang
 
 ## <span style="color:#023047"> **Acknowledgement** </span>
+
 This workshop is built based on ARDC's [Your first step to FAIR](https://au-research.github.io/your-first-step-to-fair/)  
 DOI: 10.5281/zenodo.5009206
 
 ## <span style="color:#023047"> **Licence** </span>
+
 All content of this workshop is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence.  
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
