@@ -5,12 +5,15 @@ layout: episode
 ---
 
 # <span style="color:#023047"> Data and metadata submission </span>
-This part will guide you through the data and metadata submission to the [Sandbox - Murdoch University Research Portal *Link is not available yet](https://sandbox.researchportal.murdoch.edu.au/)
-Photos/videos of step by step instruction is being prepared
+This part will guide you through the data and metadata submission to the [ Murdoch University Research Portal](https://researchportal.murdoch.edu.au/)
+
+## <span style="color:red"> *Important note* </span>
+### <span style="color:red">Please put a prefix "TEST -" in the title of the dataset before submitting it to the library portal </span>
+
 
 ## <span style="color:#063970"> **I. Getting start** </span>
 
-The submission page can be access via the following link [Sandbox - Murdoch University Research Portal *Link is not available yet](https://sandbox.researchportal.murdoch.edu.au/)
+The submission page can be access via the following link [Murdoch University Research Portal](https://researchportal.murdoch.edu.au/)
 
 :star: **1. You can add your dataset using the "Add Content" button then select "Output"**
 
@@ -34,7 +37,10 @@ The submission page can be access via the following link [Sandbox - Murdoch Univ
 
 :leaves: **4. Input a Title for the dataset. The title should be short and descriptive.**
 
-:herb: **5. If you are uploading a supported format (i.e. Word document of PDF), title can be read from file content**
+:herb: **5. If you are uploading a supported format (i.e. Word document of PDF), title can be read from file content**  
+
+<span style="color:red">*Please put a prefix "TEST -" in the title of the dataset before submitting it to the library portal* </span>  
+
 
 <img src="images/researchportal/3_Title.JPG" alt="hi" width="500" class="inline"/>
 
