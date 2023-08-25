@@ -25,10 +25,11 @@ This pratical workshop is designed for Murdoch University researchers, graduate 
 ## <span style="color:#023047"> **Episodes** </span>
 
 [1. Introduction](01-Introduction) |
-[2. Data preparation](02-Prepare-data) |
-[3. Metadata preparation](03-Prepare-metadata) |
-[4. FAIR checklist](04-FAIR-checklist) |
+[2. Getting start with FAIR](02-FAIR) |
+[3. Data preparation](03-Prepare-data) |
+[4. Metadata preparation](04-Prepare-metadata) |
 [5. Submission](05-Submission-01) |
+[6. FAIR checklist](FAIR-checklist) |
 
 ## <span style="color:#023047"> **Contributing** </span>
 

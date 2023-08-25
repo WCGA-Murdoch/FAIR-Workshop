@@ -11,7 +11,7 @@ This workshop will guide the participants through:
 * Deposit a dataset and metadata record to the Murdoch University Repository
 * Utilise the ARDC FAIR data self-assessment tool
 
-## <span style="color:#023047"> **I. Useful links** </span>
+## <span style="color:#023047"> **Useful links** </span>
 
 * The [Murdoch University Research Portal](https://researchportal.murdoch.edu.au/)
 
@@ -21,15 +21,4 @@ This workshop will guide the participants through:
 
 * The [ARDC FAIR training](https://au-research.github.io/FAIR-data-101-training/): Australian Research Data Commons’ FAIR Data 101 self-guided materials.
 
-## <span style="color:#023047"> **II. Practical dataset** </span>
-
-Links to practical datasets will be placed here
-
-### 1. Multi-environmental phenotype data
-Place holder for dataset 01
-
-### 2. Sequencing data
-Place holder for dataset 02
-
-
-###
+* The <a href="files/Copy of GRDC Metadata_Collection_Form_V3.2_notes_fixed.xlsx"> GRDC metadata collection form (version 3.2)</a>  
