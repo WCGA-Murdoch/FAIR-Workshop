@@ -1,6 +1,6 @@
 ---
 title: Metadata preparation
-permalink: /03-Prepare-metadata
+permalink: /04-Prepare-metadata
 layout: episode
 ---
 

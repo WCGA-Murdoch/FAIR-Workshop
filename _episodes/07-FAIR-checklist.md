@@ -1,6 +1,6 @@
 ---
 title: FAIR assessment
-permalink: /04-FAIR-checklist
+permalink: /FAIR-checklist
 layout: episode
 ---
 
