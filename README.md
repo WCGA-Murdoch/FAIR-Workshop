@@ -16,7 +16,7 @@ Participants will be able to:
 * Prepare their data following FAIR foundation and open format standards
 * Prepare a rich metadata record
 * Familiar with the ARDC FAIR data self-assessment tool
-* Deposit a dataset and metadata recoreds to the Murdoch University Repository
+* Deposit a dataset and metadata records to the Murdoch University Repository
 
 ## <span style="color:#023047"> **Target audiences** </span>
 
@@ -44,7 +44,7 @@ Viet Dang and Penghao Wang
 This workshop is built based on ARDC's [Your first step to FAIR](https://au-research.github.io/your-first-step-to-fair/)  
 DOI: 10.5281/zenodo.5009206
 
-The authors thanks The Murdoch University Library Team for their tremendous support.
+The authors thank The Murdoch University Library Team for their tremendous support.
 
 ## <span style="color:#023047"> **Licence** </span>
 
