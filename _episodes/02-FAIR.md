@@ -6,14 +6,16 @@ layout: episode
 
 # <span style="color:#023047"> The FAIR components: </span>
 
+
+<img src="images/fair/example_1.jpg" alt="hi" width="500" class="inline"/>
+
+
 ## <span style="color:#063970"> **F - Findable** </span>
 The main purpose of F is to prevent data loss, acknowledgment for the creators, increase the visibility of research and enable reusability.  
 **How to:**
 * Deposit your data to a data repository
 * Advertise your data (conferences, presentations, etc.)
 * Describe your data with rich metadata and standard vocabularies
-
-<img src="images/fair/example_1.jpg" alt="hi" width="500" class="inline"/>
 
 ## <span style="color:#063970"> **A - Accessible** </span>
 The main purpose of A is to prevent data loss, regulate access via appropriate permission allocations, increase the visibility of research and enable reusability.  
