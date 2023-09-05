@@ -18,7 +18,7 @@ The submission page can be access via the following link [Murdoch University Res
 :star: **1. Please sign in to your academic profile**
 
 
-<img src="images/researchportal/0.0_Signin.JPG" alt="hi" width="700" class="inline"/>
+<img src="images/researchportal/0.0_Signin.jpg" alt="hi" width="700" class="inline"/>
 
 
  :seedling: **2. You can add your dataset using the "Add Content" button then select "Output"**
