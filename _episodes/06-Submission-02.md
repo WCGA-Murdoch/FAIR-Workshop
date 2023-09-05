@@ -20,12 +20,12 @@ layout: episode
 
 :melon: **12. Authors can be looked up using names if already existed.**
 
-:watermelon: **Alternatively, you can add a new author name to the Portal.**
+:watermelon: **Alternatively, you can add a new author name to the Portal.**  
 
-:question: *If you have an academic profile on the Research Portal and there are two entries for your name???*
-:white_check_mark: *Select the one that includes your School/Centre or just says ‘Murdoch University’*
-:x: *In stead of select the one that include ‘(Australia, Perth)’*
-:bookmark_tabs: *This will ensure the dataset is linked to your profile.*
+:question: *If you have an academic profile on the Research Portal and there are two entries for your name???*  
+:+1: *Select the one that includes your School/Centre or just says ‘Murdoch University’*  
+:x: *In stead of select the one that include ‘(Australia, Perth)’*  
+:bookmark_tabs: *This will ensure the dataset is linked to your profile.*  
 
 
 <img src="images/researchportal/10_Authors.JPG" alt="hi" width="500" class="inline"/>
@@ -66,7 +66,7 @@ layout: episode
 
 ## <span style="color:#063970"> **V. Required for GRDC-funded project**</span>
 
-:red_circle: **16. Grant information: Name, ID and Funding Body can be looked up or input manually.**
+:red_circle: **16. Grant information: Name, ID and Funding Body can be looked up or input manually.**  
 :bookmark_tabs: *User can still put in grant information even if the project was not GRDC-funded*
 
 <img src="images/researchportal/15_Grants.JPG" alt="hi" width="500" class="inline"/>

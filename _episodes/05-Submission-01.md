@@ -38,7 +38,7 @@ The submission page can be access via the following link [Murdoch University Res
 :leaves: **4. Input a Title for the dataset. The title should be short and descriptive.**
 
 
-<span style="color:red">*Please put a prefix "TEST -" in the title of the dataset before submitting it to the library portal* </span>  
+<span style="color:red">*Please put a prefix "TEST -" in the title of the dataset before submitting it to the library portal* </span>    
 
 
 <img src="images/researchportal/3_Titlev2.JPG" alt="hi" width="500" class="inline"/>
@@ -50,21 +50,23 @@ The submission page can be access via the following link [Murdoch University Res
 <img src="images/researchportal/4_Files_Metadata.JPG" alt="hi" width="500" class="inline"/>
 
 
-:deciduous_tree: **6. The essential metadata for each file is License and Access rights. Select "+ Add license" and choose license from the list.**
-:bookmark_tabs: *It is common practice to apply the CC BY V4.0 license, which is recommended by Murdoch University*
+:deciduous_tree: **6. The essential metadata for each file is License and Access rights.**  
+**Select "+ Add license" and choose license from the list.**  
+:bookmark_tabs: *It is common practice to apply the CC BY V4.0 license, which is recommended by Murdoch University*  
 
 
 <img src="images/researchportal/5_License.JPG" alt="hi" width="500" class="inline"/>
 
 
-:four_leaf_clover: **7. Select "+ Set file access". If you select "On request" or " Private", you will need to specify the reason.**
+:four_leaf_clover: **7. Select "+ Set file access".**   
+:bookmark_tabs:*If you select "On request" or " Private", you will need to specify the reason.*  
 
 
 <img src="images/researchportal/7_Access_2.JPG" alt="hi" width="500" class="inline"/>
 
 
-:sunflower: **8. File description is not required but strongly encouraged. Users will know what file they're going to download**
-:bookmark_tabs: We advise using a very short description (~10 words) because of compatibility issues
+:sunflower: **8. File description is not required but strongly encouraged. Users will know what file they're going to download**  
+:bookmark_tabs: *We advise using a very short description (~10 words) because of compatibility issues*
 
 
 <img src="images/researchportal/8_FileDescription.JPG" alt="hi" width="500" class="inline"/>
