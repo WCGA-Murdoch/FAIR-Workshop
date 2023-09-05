@@ -22,9 +22,9 @@ layout: episode
 
 :watermelon: **Alternatively, you can add a new author name to the Portal.**  
 
-:question: *If you have an academic profile on the Research Portal and there are two entries for your name???*  
-:+1: *Select the one that includes your School/Centre or just says ‘Murdoch University’*  
-:x: *In stead of select the one that include ‘(Australia, Perth)’*  
+:question: *If you have an academic profile and there are two entries for your name???*  
+:+1: *Select the one that includes your School/Centre or just says "Murdoch University"*  
+:x: *Do not select the one that include "(Australia, Perth)"*  
 :bookmark_tabs: *This will ensure the dataset is linked to your profile.*  
 
 
@@ -60,7 +60,7 @@ layout: episode
 :bookmark_tabs: **Note: format required for Geospatial information**
 
 
-<img src="images/researchportal/A1_Geo_spatial.png" alt="hi" width="500" class="inline"/>
+<img src="images/researchportal/A1_Geo_spatial.png" alt="hi" width="800" class="inline"/>
 
 
 

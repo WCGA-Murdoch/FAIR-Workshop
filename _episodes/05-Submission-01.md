@@ -59,7 +59,7 @@ The submission page can be access via the following link [Murdoch University Res
 
 
 :four_leaf_clover: **7. Select "+ Set file access".**   
-:bookmark_tabs:*If you select "On request" or " Private", you will need to specify the reason.*  
+:bookmark_tabs: *If you select "On request" or " Private", you will need to specify the reason.*  
 
 
 <img src="images/researchportal/7_Access_2.JPG" alt="hi" width="500" class="inline"/>
