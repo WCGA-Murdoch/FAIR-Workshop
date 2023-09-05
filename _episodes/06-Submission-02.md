@@ -68,7 +68,7 @@ layout: episode
 :bookmark_tabs: *Researcher can leave a note in the Notes and instructions field so the Library Team can add the publication on their side.*  
 
 
-<img src="images/researchportal/A2_Publication.png" alt="hi" width="800" class="inline"/>
+<img src="images/researchportal/A2_Publication.png" alt="hi" width="300" class="inline"/>
 
 
 ## <span style="color:#063970"> **V. Required for GRDC-funded project**</span>
