@@ -38,7 +38,7 @@ The minimum requirements for a dataset:
 * **License** - A data license is a legal arrangement between the creator of the data and the end-user specifying what users can do with the data
 * **For GRDC-funded project** - GRDC project code and name
 
-## <span style="color:#063970"> **III. Additional information is highly encourage** </span>
+## <span style="color:#063970"> **III. Additional information is highly encouraged** </span>
 
 Additional information is highly encourage, since it will support the findability and reusability of the dataset:
 * **Time coverage** - When the data was collected

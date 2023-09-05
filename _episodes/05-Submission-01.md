@@ -13,9 +13,15 @@ This part will guide you through the data and metadata submission to the [ Murdo
 
 ## <span style="color:#063970"> **I. Getting start** </span>
 
-The submission page can be access via the following link [Murdoch University Research Portal](https://researchportal.murdoch.edu.au/)
+The submission page can be access via the following link [Murdoch University Research Portal](https://researchportal.murdoch.edu.au/)  
 
-:star: **1. You can add your dataset using the "Add Content" button then select "Output"**
+:star: **1. Please sign in to your academic profile**
+
+
+<img src="images/researchportal/0.0_Signin.JPG" alt="hi" width="500" class="inline"/>
+
+
+ :seedling: **2. You can add your dataset using the "Add Content" button then select "Output"**
 
 
 <img src="images/researchportal/0_Portal_start.JPG" alt="hi" width="200" class="inline"/>
@@ -23,13 +29,7 @@ The submission page can be access via the following link [Murdoch University Res
 
 ## <span style="color:#063970"> **II. The essential** </span>
 
-:seedling: **2. Specify the type of the data you are submitting. In our case would be "Dataset"**
-
-
-<img src="images/researchportal/1_GettingStart.JPG" alt="hi" width="500" class="inline"/>
-
-
-:evergreen_tree: **3. Select "Dataset" from the dropdown list Or you can search for the data type.**
+:evergreen_tree: **3. Select Dataset from the dropdown list, or search for "dataset"**
 
 
 <img src="images/researchportal/2_DataType.JPG" alt="hi" width="500" class="inline"/>
@@ -37,12 +37,11 @@ The submission page can be access via the following link [Murdoch University Res
 
 :leaves: **4. Input a Title for the dataset. The title should be short and descriptive.**
 
-:herb: **5. If you are uploading a supported format (i.e. Word document of PDF), title can be read from file content**  
 
 <span style="color:red">*Please put a prefix "TEST -" in the title of the dataset before submitting it to the library portal* </span>  
 
 
-<img src="images/researchportal/3_Title.JPG" alt="hi" width="500" class="inline"/>
+<img src="images/researchportal/3_Titlev2.JPG" alt="hi" width="500" class="inline"/>
 
 
 :cactus: **6. After uploading the data files, select "Edit metadata"**
