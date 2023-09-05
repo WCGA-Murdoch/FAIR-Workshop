@@ -63,10 +63,18 @@ layout: episode
 <img src="images/researchportal/A1_Geo_spatial.png" alt="hi" width="800" class="inline"/>
 
 
+:tangerine: **17. Related publications**  
+:bookmark_tabs: *Related publications cannot be added by the researcher at the moment*  
+:bookmark_tabs: *Researcher can leave a note in the Notes and instructions field so the Library Team can add the publication on their side.*  
+
+
+<img src="images/researchportal/A2_Publication" alt="hi" width="800" class="inline"/>
+
 
 ## <span style="color:#063970"> **V. Required for GRDC-funded project**</span>
 
-:red_circle: **16. Grant information: Name, ID and Funding Body can be looked up or input manually.**  
+:red_circle: **18. Grant information: Name, ID and Funding Body can be looked up or input manually.**  
 :bookmark_tabs: *User can still put in grant information even if the project was not GRDC-funded*
+
 
 <img src="images/researchportal/15_Grants.JPG" alt="hi" width="500" class="inline"/>
