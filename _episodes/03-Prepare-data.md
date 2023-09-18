@@ -4,17 +4,14 @@ permalink: /03-Prepare-data
 layout: episode
 ---
 #  <span style="color:#023047"> Data preparation steps </span>
-This part will guide you through the data preparation steps
+
+This part will give you some information about the data preparation steps
 
 ## <span style="color:#023047"> **I. Practical dataset** </span>
 
-Links to practical datasets will be placed here
+### Multi-environmental phenotype data  
 
-### 1. Multi-environmental phenotype data
-Place holder for dataset 01
-
-### 2. Sequencing data
-Place holder for dataset 02
+The <a href="files/My_Trial_data_2017to2019.xlsx"> Download Sample data</a>  
 
 ## <span style="color:#023047"> **II. Activities** </span>
 
@@ -36,12 +33,17 @@ Place holder for dataset 02
 [FAIR sharing](https://fairsharing.org/) is a good place to look for data standard.  
 :bookmark_tabs: *Preparing data following standard enable [R]eusability and [I]nteroperability of your data.*   
 
+
 ## <span style="color:#023047"> **III. Improved dataset** </span>
 
-Links to Improved practical datasets will be placed here
+### Multi-environmental phenotype data - Improved
 
-### 1. Multi-environmental phenotype data
-Place holder for dataset 01
+The <a href="files/PER_COR_ESP_Phenotype_2017.2019"> Download Sample data 2</a>  
+Please have a look at the improved dataset
 
-### 2. Sequencing data
-Place holder for dataset 02
+:question: Do the dataset easy to understand?    
+:question: What improvements can be done?  
+:question: Which format did the datasets follow?    
+
+:bookmark_tabs: In the case of large dataset, try separating the data into different files (i.e. Experiment information, Variety information)  
+:bookmark_tabs: This will allow users to get the additional information without opening the main data  

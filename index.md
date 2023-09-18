@@ -2,10 +2,9 @@
 title: Welcome to the FAIR practical workshop
 ---
 
-### Please note that this repository is still under development
 
-This short workshop provides the materials and intructions for researchers to prepare their data and metadata following the [FAIR Principles](https://doi.org/10.1038/sdata.2016.18).  
-The [FAIR Principles](https://doi.org/10.1038/sdata.2016.18) enables the findability and reuseability of published data, which would enhance collaborations and research outcomes.
+This short workshop provides the materials and instructions for researchers to prepare their data and metadata following the [FAIR Principles](https://doi.org/10.1038/sdata.2016.18).  
+The [FAIR Principles](https://doi.org/10.1038/sdata.2016.18) enables the findability and reusability of published data, which would enhance collaborations and research outcomes.
 There are four main components of this workshop: Findable, Assessible, Interoperable and Reusable, with practical datasets and submission process.
 
 
@@ -20,7 +19,7 @@ Participants will be able to:
 
 ## <span style="color:#023047"> **Target audiences** </span>
 
-This pratical workshop is designed for Murdoch University researchers, graduate students and research contributors.
+This practical workshop is designed for Murdoch University researchers, graduate students and research contributors.
 
 ## <span style="color:#023047"> **Episodes** </span>
 
@@ -34,6 +33,7 @@ This pratical workshop is designed for Murdoch University researchers, graduate 
 ## <span style="color:#023047"> **Contributing** </span>
 
 Contributions are always welcome!
+For any questions and suggestion, please contact [Viet Dang](mailto:viet.dang@murdoch.edu.au) or [Penghao Wang](mailto:p.wang@murdoch.edu.au)
 
 ## <span style="color:#023047"> **Authors** </span>
 
