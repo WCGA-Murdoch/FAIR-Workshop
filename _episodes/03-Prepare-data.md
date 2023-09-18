@@ -38,7 +38,7 @@ The <a href="files/My_Trial_data_2017to2019.xlsx"> Download Sample data</a>
 
 ### Multi-environmental phenotype data - Improved
 
-The <a href="files/PER_COR_ESP_Phenotype_2017.2019"> Download Sample data 2</a>  
+The <a href="files/PER_COR_ESP_Phenotype_2017.2019.xlsx"> Download Sample data 2</a>  
 Please have a look at the improved dataset
 
 :question: Do the dataset easy to understand?    
