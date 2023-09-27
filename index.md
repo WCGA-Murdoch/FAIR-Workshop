@@ -39,13 +39,14 @@ Participants will be able to:
 This practical workshop is designed for Murdoch University researchers, graduate students and research contributors.
 
 ## <span style="color:#023047"> **Practical Tutorials - FAIR and Repository submission** </span>
-
-[1. Introduction](01-Introduction) |
-[2. Getting start with FAIR](02-FAIR) |
-[3. Data preparation](03-Prepare-data) |
-[4. Metadata preparation](04-Prepare-metadata) |
-[5. Submission](05-Submission-01) |
-[6. FAIR checklist](FAIR-checklist) |
+| Episodes |
+|:---|
+| [1. Introduction](01-Introduction) |
+| [2. Getting start with FAIR](02-FAIR) |
+| [3. Data preparation](03-Prepare-data) |
+| [4. Metadata preparation](04-Prepare-metadata) |
+| [5. Submission](05-Submission-01) |
+| [6. FAIR checklist](FAIR-checklist) |
 
 ## <span style="color:#023047"> **Contributing** </span>
 
