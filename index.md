@@ -39,6 +39,8 @@ Participants will be able to:
 This practical workshop is designed for Murdoch University researchers, graduate students and research contributors.
 
 ## <span style="color:#023047"> **Practical Tutorials - FAIR and Repository submission** </span>
+
+
 | Episodes |
 |:---|
 | [1. Introduction](01-Introduction) |
