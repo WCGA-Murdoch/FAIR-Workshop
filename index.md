@@ -23,7 +23,7 @@ There are four main components of this workshop: Findable, Assessible, Interoper
 
 For any queries regarding the workshop, please feel free to contact [Penghao Wang](mailto:p.wang@murdoch.edu.au), [Brett Chapman](mailto:brett.chapman@murdoch.edu.au) or [Viet Dang](mailto:viet.dang@murdoch.edu.au)  
 
-For any queries regarding Murdoch University Research Portal and Murdoch University Data Management Policies and Plans, please contact the [Libray Team](https://researchportal.murdoch.edu.au/esploro/general/contact) or [Penghao Wang](mailto:p.wang@murdoch.edu.au)
+For any queries regarding Murdoch University Research Portal and Murdoch University Data Management Policies and Plans, please contact the [Library Team](https://researchportal.murdoch.edu.au/esploro/general/contact) or [Penghao Wang](mailto:p.wang@murdoch.edu.au)
 
 ## <span style="color:#023047"> **Workshop objectives** </span>
 
